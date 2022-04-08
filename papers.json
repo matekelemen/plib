@@ -1,0 +1,42 @@
+{
+    "computationally_efficient_multi_time_step_method_for_partitioned_time_integration_of_highly_nonlinear_structural_dynamics" : {
+        "doi" : "https://doi.org/10.1016/j.compstruc.2013.11.013",
+        "references" : [
+            "space_time_finite_element_methods_for_elastodynamics_formulations_and_error_estimates",
+            "space_time_finite_element_methods_for_second_order_hyperbolic_equations",
+            "incomplete_placeholder"
+        ]
+    },
+    "two_feti_based_heterogeneous_time_step_coupling_methods_for_newmark_and_alpha_schemes_derived_from_the_energy_method" : {
+        "doi" : "http://dx.doi.org/10.1016/j.cma.2014.09.010",
+        "references" : [
+            "incomplete_placeholder"
+        ]
+    },
+    "heterogeneous_asynchronous_variational_time_integrators_for_coupling_methods" : {
+        "doi" : "",
+        "references" : [
+            "incomplete_placeholder"
+        ]
+    },
+    "a_multirate_approach_for_fluid_structure_interaction_computation_with_decoupled_methods" : {
+        "doi" : "10.4208/cicp.OA-2018-0305",
+        "references" : [
+            "added_mass_effect_in_the_design_of_partitioned_algorithms_for_fluid_structure_problems",
+            "incomplete_placeholder"
+        ]
+    },
+    "added_mass_effect_in_the_design_of_partitioned_algorithms_for_fluid_structure_problems" : {
+        "doi" : "10.1016/j.cma.2004.12.005",
+        "references" : [
+            "an_iterative_method_for_elliptic_problems_on_regions_partitioned_into_substructures",
+            "incomplete_placeholder"
+        ]
+    },
+    "an_iterative_method_for_elliptic_problems_on_regions_partitioned_into_substructures" : {
+        "doi" : "https://doi.org/10.2307/2007981",
+        "references" : [
+            "incomplete_placeholder"
+        ]
+    }
+}

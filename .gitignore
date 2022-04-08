@@ -1,0 +1,6 @@
+papers/*
+.vscode
+*.pyc
+*.pyd
+__pycache__
+
